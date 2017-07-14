@@ -1,3 +1,8 @@
 Hello
+<<<<<<< HEAD
 This is the first time I come here, I want to say hello to everyone
 
+=======
+This is the first time I come here
+This is me again
+>>>>>>> newbranch
